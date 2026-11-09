@@ -4,7 +4,7 @@
 
 
 
-![](..\推广\imgs\BilBil.png)
+![](./imgs/BilBil.png)
 
 
 
