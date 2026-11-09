@@ -1,0 +1,12 @@
+# B站 / 抖音关键词搜索爬虫依赖（Python 3.10 已验证）
+# 安装命令：python -m pip install -r requestment.txt
+
+requests==2.31.0
+qrcode==8.2
+Pillow==11.0.0
+openpyxl==3.1.5
+streamlit==1.65.0
+pandas==2.2.3
+playwright==1.55.0
+yt-dlp==2026.10.21
+imageio-ffmpeg==0.7.0
